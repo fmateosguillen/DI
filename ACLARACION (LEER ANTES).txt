@@ -1,0 +1,1 @@
+Por algún motivo el flujo que va desde el botón de "Solicitar cita" en el inicio no me lo reconoce al intentar clickar. Sin embargo puedes acceder al resto de funcionalidades desde el menú desplegable de la izquierda
